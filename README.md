@@ -6,6 +6,7 @@
   Building towards a Data Analyst / Junior Data Scientist / Quant Analyst role by 2028.
 
 ## Projects
+
 | # | Project | Tech | Status |
 |---|---|---|---|
 | 1 | Snake Water Gun Game | Python | ✅ Done |
@@ -15,7 +16,6 @@
 | 5 | NLP Project | Python, NLP | 🔄 Upcoming |
 | 6 | Deployed ML App | FastAPI, Render | 🔄 Upcoming |
 | 7 | Algo Trading Backtester | Python, yfinance | 🔄 Upcoming |
-
 ## Connect
   - LinkedIn: https://www.linkedin.com/in/keshav-bhardwaj-540102238
   - Email: bhardwajkeshav2007@gmail.com
